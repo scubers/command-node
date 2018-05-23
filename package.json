@@ -1,0 +1,13 @@
+{
+  "name": "command-node",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "rxjs": "^6.2.0",
+    "body-parser": "1.18.2"
+  }
+}
